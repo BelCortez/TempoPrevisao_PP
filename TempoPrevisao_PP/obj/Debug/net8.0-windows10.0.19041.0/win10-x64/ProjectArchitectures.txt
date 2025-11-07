@@ -1,0 +1,1 @@
+C:\Users\andre\source\repos\TempoPrevisao_PP\TempoPrevisao_PP\TempoPrevisao_PP.csproj;x64
